@@ -6,3 +6,4 @@
 .DS_Store
 
 lib/EspMeshCommon/*
+lib/EspMeshCommon/espmesh.h
