@@ -6,3 +6,5 @@ Works with python serial mqtt gateway:
 
 https://github.com/leodesigner/esp_mesh_mqtt_gateway
 
+Use platformio to build and upload.
+Custom upload script for remote raspberrypi/orangepi upload provided. 
